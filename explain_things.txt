@@ -1,0 +1,6 @@
+//To run the code generator, execute the following command:
+//note: please don't forget to do (ctrs + s) before. 
+flutter pub run build_runner build
+or
+flutter pub run build_runner build --delete-conflicting-outputs
+import 'package:easy_localization/easy_localization.dart';
